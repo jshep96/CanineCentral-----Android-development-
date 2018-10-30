@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">CanineCentral</string>
+    <string name="google_android_map_api_key">AIzaSyBwZZTl7nYOvA5FnQ4E5MaHVfUbFpoLlUY</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_activity_main3">Main3Activity</string>
+    <string name="title_walk">Walk</string>
+    <string name="title_goal">Goals</string>
+    <string name="title_progress">Progress</string>
+    
+    <string-array name="pet_size_array">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+        <item>Extra Large</item>
+    </string-array>
+</resources>

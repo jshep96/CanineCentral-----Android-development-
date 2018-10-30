@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_pets"
+        android:icon="@drawable/ic_account_circle_white_24dp"
+        android:title="Pets" />
+
+    <item
+        android:id="@+id/navigation_goal"
+        android:icon="@drawable/ic_note_add_white_24dp"
+        android:title="@string/title_goal" />
+
+    <item
+        android:id="@+id/navigation_walk"
+        android:icon="@drawable/ic_pets_white_24dp"
+        android:title="@string/title_walk" />
+
+    <item
+        android:id="@+id/navigation_prev_walk"
+        android:icon="@drawable/ic_show_chart_white_24dp"
+        android:title="@string/title_progress" />
+
+</menu>
